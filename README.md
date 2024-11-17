@@ -5,8 +5,14 @@ Aim:
 To design and implement a 1-bit full adder circuit using Cadence EDA tools and to understand its behavior in digital arithmetic operations.
 
 Tools Required:
+
 •	Personal Computer
 •	Cadence Virtuoso Software
+
+Circuit Diagram:
+
+![WhatsApp Image 2024-11-13 at 16 26 08_60e39138](https://github.com/user-attachments/assets/8877e8a2-f4d7-427e-961e-e64cf54476de)
+
 
 S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
 
