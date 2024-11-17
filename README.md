@@ -11,7 +11,8 @@ Tools Required:
 
 Circuit Diagram:
 
-![WhatsApp Image 2024-11-13 at 16 26 08_60e39138](https://github.com/user-attachments/assets/8877e8a2-f4d7-427e-961e-e64cf54476de)
+![WhatsApp Image 2024-11-13 at 16 26 07_00398b36](https://github.com/user-attachments/assets/d40663f9-6377-4ce0-bb6c-9760046c8b8a)
+
 
 
 S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
